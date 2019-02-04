@@ -23,7 +23,9 @@ OPR.py is a Python program that parses data from teams.txt and matches.txt and l
  * Scores, Autos, and Margins: Single-column matrices of alliances x 1 with the scores of each alliance (Scores), autonomous scores of each alliance (Autos), and winning/losing margins for each alliance (Margins).
  
 Finding the match statistics (OPR, Auto OPR, CCWM) for each team sets up a system of equations:
-  *Mx = R
+
+  Mx = R
+
 where M is the matrix M, x is the statistic matrix of 1 x teams that we are solving for, and R is the results matrix, either Scores, Autos, or Margins.
 
 Since the system is overdetermined with more equations (alliances) than variables (teams), the Python program multiplies the results matrix by the pseudo inverse of M to find the matrix x.
