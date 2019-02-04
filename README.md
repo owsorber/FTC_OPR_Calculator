@@ -1,4 +1,4 @@
-# FTC_OPR_Calculator
+# FTC Match Analysis
 This repository was built to efficiently calculate FTC team statistics such as OPR, Autonomous OPR, and CCWM at an FTC event.
 
 ## teams.txt
