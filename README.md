@@ -24,7 +24,7 @@ OPR.py is a Python program that parses data from teams.txt and matches.txt and l
  
 Finding the match statistics (OPR, Auto OPR, CCWM) for each team sets up a system of equations:
 
-  Mx = R
+    Mx = R
 
 where M is the matrix M, x is the statistic matrix of 1 x teams that we are solving for, and R is the results matrix, either Scores, Autos, or Margins.
 
