@@ -32,7 +32,7 @@ Since the system is overdetermined with more equations (alliances) than variable
 
 Math used inspired by: https://blog.thebluealliance.com/2017/10/05/the-math-behind-opr-an-introduction/
 
-Then the program ranks the teams by OPR and outputs them to the screen.
+Finally, the program ranks the teams by OPR and outputs them to the screen.
 
 ## TODO: 
  * Load data into HTML file to nicely display data in browser?
