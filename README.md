@@ -18,7 +18,7 @@ represented with a new line, in the form:
   
     redTeam1, redTeam2, redScore, redAuto, blueTeam1, blueTeam2, blueScore, blueAuto
 
-The Python program OPR.py then instantiates a Match object for each team entered.
+The Python program OPR.py then instantiates a Match object for each match entered.
 
 ## OPR.py
 OPR.py is a Python program that parses data from teams.txt and matches.txt and loads the data into four different matrices. 
