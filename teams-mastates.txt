@@ -1,0 +1,36 @@
+0001, Team Unlimited
+0133, Arrows
+3565, Ghost Robotics
+3615, Arlington Automations
+3737, Hank's Tanks
+4029, 2 Bits and a Byte
+4096, T-10
+4410, ARC Lightning
+5273, ARC Thunder
+5436, Aluminum Cobblers
+5897, HackHers
+6032, Lightning Hawks
+6040, Canton Robodogs
+7245, Big Green
+7571, Alumineers
+8227, Enginuity
+8379, The Parity Bits
+8644, The Brainstormers
+9006, Space Dogs
+9867, Evolution Robotics
+10331, Hailstorm
+10767, DEEZ GEARZ
+11100, We are Robo
+11251, Lexington Legoheads
+11723, Canton GearHounds
+12589, Pioneer Robotics
+13406, Plastic Gears
+13534, Robots in Plaid
+13620, The Winsor Wildbots
+13950, Hi-Tech Hornets
+14039, IrRaTiOnAl
+14079, Attic Fanatics
+14875, LightSpeed
+15089, Circuit Breakers
+15092, AB Robotics
+15202, Betelguese Robotics
