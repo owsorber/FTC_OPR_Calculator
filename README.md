@@ -5,14 +5,14 @@ This repository was built to efficiently calculate FTC team statistics such as O
  * Autonomous OPR: Attempts to find each team's robot's average autonomous scoring contribution per match.
  * CCWM (Calculated Contribution to Winning Margin): On average, how many more/fewer points each team's robot scored than their opponents per match.
 
-## teams.txt
+## teams-[event].txt
 A plain text file where every team at an FTC event can be entered. For simplicity, teams are entered in the form:
   
     teamNum, teamName
 
 The Python program OPR.py then instantiates a Team object for each team entered.
 
-## matches.txt
+## matches-[event].txt
 A plain text file where the match data from an FTC event can be manually entered by scouts. Each match's data is 
 represented with a new line, in the form:
   
