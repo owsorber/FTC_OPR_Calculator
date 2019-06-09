@@ -1,5 +1,5 @@
 # FTC OPR Calculator
-This repository was built to efficiently calculate FTC team statistics such as OPR, Autonomous OPR, and CCWM at an FTC event.
+This repository was built to efficiently calculate FTC team statistics such as OPR, Autonomous OPR, and CCWM at an FTC event. All match data stored in this repository is from the 2018-19 FTC Rover Ruckus season.
 
  * OPR (Offensive Power Rating): Attempts to find each team’s robot’s average scoring contribution per match.
  * Autonomous OPR: Attempts to find each team's robot's average autonomous scoring contribution per match.
