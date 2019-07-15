@@ -40,4 +40,4 @@ Finally, the program ranks the teams by OPR and outputs them to the screen.
 
 ## TODO: 
  * Load data into HTML file to nicely display data in browser?
-
+ * Create mobile or desktop application for match scouts?
